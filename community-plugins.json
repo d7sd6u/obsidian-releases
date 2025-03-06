@@ -15763,11 +15763,25 @@
     "description": "Generate blog posts from your notes using OpenAI",
     "repo": "garethng/obsidian-blog-generator"
   },
+  {    
+    "id": "spaced-repetition-ai",
+    "name": "Spaced Repetition AI",
+    "author": "Belinda Mo, Athena Leong",
+    "description": "Review, generate, and add flashcards for your notes using AI",
+    "repo": "ai-learning-tools/obsidian-spaced-repetition-ai"
+  },
+  {
+    "id": "tier-list",
+    "name": "Tier List",
+    "author": "Mox Alehin",
+    "description": "Visual ranking and organizing content into customizable tier lists.",
+    "repo": "MoxAlehin/TierList"
+  },
   {
     "id": "auto-folder-note-paste",
     "name": "Auto Create Folder Note",		
     "author": "d7sd6u",
     "description": "Automagically convert the note to a folder note when pasting or drag'n'dropping an attachment.",
     "repo": "d7sd6u/obsidian-auto-folder-note-paste"
-  },
+  }
 ]
