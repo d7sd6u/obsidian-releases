@@ -15764,7 +15764,7 @@
     "repo": "garethng/obsidian-blog-generator"
   },
   {
-    "id": "crosslink-advanced",
+    "id": "crosslink-advanced", 
     "name": "Crosslink Advanced",
     "description": "Tag files using folders and symlinks system (ftags).",
     "author": "d7sd6u",
